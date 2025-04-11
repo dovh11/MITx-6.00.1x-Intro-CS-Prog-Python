@@ -1,1 +1,1 @@
-This is my solution for all problem sets in the course **MITx 6.00.1x: Introduction to Computer Science and Programming Using Python.**
+This is my solutions for all problem sets in the course **MITx 6.00.1x: Introduction to Computer Science and Programming Using Python.**
