@@ -54,7 +54,7 @@ def get_story_string():
     return story
 
 WORDLIST_FILENAME = 'words.txt'
-# These 2 line below is helpful for debugging this file in VSCode
+# These 2 lines below are helpful for debugging this file in VSCode
 # import os
 # WORDLIST_FILENAME = os.path.join(os.path.dirname(__file__), 'words.txt')
 
