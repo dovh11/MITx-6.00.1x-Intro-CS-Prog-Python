@@ -272,6 +272,6 @@ print('Actual Output:', ciphertext.decrypt_message())
 # decrypt_story()
 def decrypt_story():
     decryptStory = CiphertextMessage(get_story_string())
-    print('Decrypted story: ', decryptStory.decrypt_message())
+    return decryptStory.decrypt_message()
 
-decrypt_story()
+print('Decrypted story: ', decrypt_story())
